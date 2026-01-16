@@ -1,5 +1,5 @@
 package modelo;
-
+MI trabajooooo
 public class Entrada {
 
     private int idEntrada;
@@ -64,3 +64,4 @@ public class Entrada {
                ", precio=" + precio + ", descuento=" + descuento + "]";
     }
 }
+
